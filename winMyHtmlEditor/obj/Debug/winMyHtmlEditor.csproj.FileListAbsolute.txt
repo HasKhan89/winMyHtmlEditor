@@ -1,0 +1,10 @@
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\bin\Debug\winMyHtmlEditor.exe.config
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\bin\Debug\winMyHtmlEditor.exe
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\bin\Debug\winMyHtmlEditor.pdb
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.Form1.resources
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.HtmlListForm.resources
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.exe
+C:\Users\HasKhan\Desktop\winMyHtmlEditor\winMyHtmlEditor\obj\Debug\winMyHtmlEditor.pdb
